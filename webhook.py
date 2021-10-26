@@ -4,9 +4,6 @@ import time
 from os import system
 from dhooks import Webhook
 
-init()
-
-
 
 system("title webhook tool by kaos")
 hook2 = input("enter webhook: ")
